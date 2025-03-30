@@ -37,4 +37,6 @@ Este proyecto es un sistema de gestión de averías desarrollado con **Django**.
 
 ## Demostración
 
-[![Ver Video](https://img.shields.io/badge/Ver%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/8K20eJN5XgM?si=-cnXiducRSQhFa9C)
+🔹 [![Ver en YouTube](https://img.shields.io/badge/🎥%20Demostración-red?logo=youtube&logoColor=white)](https://youtu.be/8K20eJN5XgM?si=KtO-5i9fdGvBehaz)
+
+📌 *Haz clic con el botón derecho encima del botón y selecciona "Abrir enlace en una nueva pestaña" para no salir del repositorio.*
