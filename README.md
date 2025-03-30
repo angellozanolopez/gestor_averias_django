@@ -2,6 +2,10 @@
 
 Este proyecto es un sistema de gestión de averías desarrollado con **Django**. Permite gestionar usuarios con diferentes roles, equipos de inventario, partes de avería y notificaciones.
 
+<p align="center">
+  <img src="https://img.youtube.com/vi/8K20eJN5XgM/hqdefault.jpg" alt="Miniatura del Video" width="400">
+</p>
+
 ## Características principales
 
 ✅ **Sistema de autenticación:**  
@@ -28,15 +32,14 @@ Este proyecto es un sistema de gestión de averías desarrollado con **Django**.
 
 ## Tecnologías utilizadas
 
-- **Python** - Lenguaje principal
-- **Django** - Framework principal.  
-- **PostgreSQL** - Base de datos utilizada.
-- **HTML5 y JavaScript** - Para la estructura y funcionalidad en el cliente.  
-- **Bootstrap / CSS** - Para mejorar la apariencia del sistema.  
-
+- **Python** - Lenguaje principal  
+- **Django** - Framework principal  
+- **PostgreSQL** - Base de datos utilizada  
+- **HTML5 y JavaScript** - Para la estructura y funcionalidad en el cliente  
+- **Bootstrap / CSS** - Para mejorar la apariencia del sistema  
 
 ## Demostración
 
-🔹 [![Ver en YouTube](https://img.shields.io/badge/🎥%20Demostración-red?logo=youtube&logoColor=white)](https://youtu.be/8K20eJN5XgM?si=KtO-5i9fdGvBehaz)
+[![Ver en YouTube](https://img.shields.io/badge/Ver%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/8K20eJN5XgM?si=-cnXiducRSQhFa9C)
 
 📌 *Haz clic con el botón derecho encima del botón y selecciona "Abrir enlace en una nueva pestaña" para no salir del repositorio.*
