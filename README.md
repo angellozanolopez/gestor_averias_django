@@ -1,0 +1,1 @@
+# gestor_averias_django
